@@ -6,5 +6,4 @@ for i in characters:
 for i in x:
 	if i not in y:
 		y.append(i)
-print(len(y),y)
-
+print("Lenght of array:",len(y),y)
